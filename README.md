@@ -1,1 +1,1 @@
-Add README.md file
+This is my second C project
