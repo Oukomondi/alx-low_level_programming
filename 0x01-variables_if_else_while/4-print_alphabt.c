@@ -2,8 +2,8 @@
 
 /**
  * main - main function block
- * Description: the function `putchar` prints all letters but the letter 'q' and 'e'.
- * Return: prints zero when successful 
+ * Description: `putchar` prints all letters but the letter 'q' and 'e'.
+ * Return: prints zero when successful
  */
 
 int main(void)
