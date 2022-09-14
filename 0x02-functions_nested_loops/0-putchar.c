@@ -1,7 +1,6 @@
-#include <stdio.h>
-#include <main.h>
+#include "main.h"
 /**
- * main - this is  the main entry to the code
+ * main - prints putchar
  *
  * Return: returns the value zero in success
  */
