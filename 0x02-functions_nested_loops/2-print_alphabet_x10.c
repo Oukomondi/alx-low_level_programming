@@ -2,7 +2,7 @@
 
 /**
  * main - entry into the code
- * Description: prints the alphabet 10 times
+ * Description: print_alphabet_x10 prints the alphabet 10 times
  * Return: always zero
  */
 
