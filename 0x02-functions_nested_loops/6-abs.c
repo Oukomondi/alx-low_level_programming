@@ -3,7 +3,7 @@
 /**
  * _abs -checks for absolute value of int
  *
- * @n -the executible character
+ * @n: the parameter executible character
  *
  * Return: 0 to return the absolute value
  * of an inter
