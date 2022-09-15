@@ -2,20 +2,20 @@
 #include "main.h"
 
 /**
- * main - prints putchar
+ * print_alphabet - prints putchar
  *
  * Return: Always 0
  */
 
 void print_alphabet(void)
 {
-     char c = 'a';
+	char c = 'a';
 
-     while (c <= 'z')
-     {  
-	_putchar(c);
-	c++;
-     }
-     
-     _putchar(10);
+	while (c <= 'z')
+	{
+		_putchar(c);
+		c++;
+	}
+
+	-putchar(10);
 }
