@@ -5,7 +5,7 @@
  *
  * @n: parameter to be executed
  *
- * Return: o when successful 
+ * Return: o when successful
  */
 
 int print_last_digit(int n)
