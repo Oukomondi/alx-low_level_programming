@@ -6,7 +6,9 @@
  *        if number is a multiple of five print Buzz
  *        if number is a multiple of 5 and 3 print FizzBuzz
  */
+
 int main(void)
+
 {
 	int i;
 
