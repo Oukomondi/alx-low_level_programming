@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _strlen - FUnction that calcualtes the length of a string.
+ * _strlen - Calcualtes the length of a string.
  *
- * @c : parameter that is passed into an argument.
+ * @n : parameter that is passed into an argument.
  * Return: returns the length of @n.
  */
 
