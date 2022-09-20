@@ -3,7 +3,7 @@
 
 /**
 * puts2 - Function prints every character in a string
-*	-starting with first character followed by 
+*	-starting with first character followed by
 *	-new line
 *
 * @str: string parameter to be passed nto arg
